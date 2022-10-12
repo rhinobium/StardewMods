@@ -1,0 +1,12 @@
+{
+	"Name": "[AT] rhinobium's yellog furniture",
+	"Author": "yellog, rhinobium",
+	"Version": "1.0.0",
+	"Description": "rhinobium's yellog furniture",
+	"UniqueID": "rhinobium.yellog",
+	"MinimumApiVersion": "2.5",
+	"ContentPackFor": {
+		"UniqueID": "PeacefulEnd.AlternativeTextures",
+		"MinimumVersion": "4.5.3"
+	  }
+}

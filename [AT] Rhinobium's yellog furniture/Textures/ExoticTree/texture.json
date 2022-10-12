@@ -1,0 +1,8 @@
+{
+  "ItemName": "Exotic Tree",
+  "Type": "Furniture",
+  "TextureWidth": 48,
+  "TextureHeight": 80,
+  "Variations": 2,
+  "Keywords": [ "yellog" ]
+}

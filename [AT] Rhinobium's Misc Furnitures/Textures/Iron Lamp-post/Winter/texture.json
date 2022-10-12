@@ -1,0 +1,9 @@
+{
+  "ItemName": "Iron Lamp-post",
+  "Type": "Craftable",
+  "Keywords": [ "Gwen" ],
+  "Seasons": [ "Winter" ],
+  "TextureWidth": 16,
+  "TextureHeight": 32,
+  "Variations": 9
+}

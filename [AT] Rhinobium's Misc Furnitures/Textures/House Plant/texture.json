@@ -1,0 +1,8 @@
+{
+    "ItemName": "House Plant",
+    "Type": "Furniture",
+    "Keywords": [ "cat" ],
+    "TextureWidth": 16,
+    "TextureHeight": 32,
+    "Variations": 20
+  }

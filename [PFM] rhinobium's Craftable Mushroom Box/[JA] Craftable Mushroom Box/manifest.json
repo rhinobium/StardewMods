@@ -1,0 +1,10 @@
+{
+   "Name": "[JA] rhinobium's Mushroom Box for self use",
+   "Author": "rhinobium, BlatantDecoy",
+   "Description": "Craftable Mushroom Box recipe unlocked at level 6 foraging.",
+   "Version": "1.0.0",
+   "UniqueID": "BlatantDecoy.JACraftableMushroomBox",
+   "ContentPackFor": {
+       "UniqueID": "spacechase0.JsonAssets"
+    },
+}

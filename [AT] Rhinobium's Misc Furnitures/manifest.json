@@ -1,0 +1,12 @@
+{
+	"Name": "[AT] Rhinobium's Misc Furnitures for self use",
+	"Author": "rhinobium",
+	"Version": "1.0.0",
+	"Description": "[AT] Rhinobium's Misc Furnitures for self use",
+	"UniqueID": "rhinobium.MiscFurniture",
+	"MinimumApiVersion": "2.5",
+	"ContentPackFor": {
+		"UniqueID": "PeacefulEnd.AlternativeTextures",
+		"MinimumVersion": "4.5.3"
+	  }
+}

@@ -1,0 +1,8 @@
+{
+  "ItemName": "Scarecrow",
+  "Type": "Craftable",
+  "TextureWidth": 16,
+  "TextureHeight": 32,
+  "Keywords": [ "cat" ],
+  "Variations": 20
+}

@@ -1,0 +1,16 @@
+﻿{
+	"Name": "[AT] Rhinobium Yellog's kitchen",
+	"Author": "Asterisk555",
+	"Version": "1.0",
+	"Description": "Yellog's kitchen Alternative Textures content pack for [DGA] Build A Kitchen",
+	"UniqueID": "rhinobium.kitchen",
+	"ContentPackFor": {
+		"UniqueID": "PeacefulEnd.AlternativeTextures",
+	},
+	"Dependencies": [
+		{
+			"UniqueID": "Asterisk555.DGA.Kitchen",
+			"IsRequired": true
+	 }
+	 ]
+}

@@ -1,0 +1,8 @@
+{
+  "ItemName": "Birch Bench",
+  "Type": "Furniture",
+  "TextureWidth": 80,
+  "TextureHeight": 96,
+  "Variations": 4,
+  "Keywords": [ "yellog" ]
+}
